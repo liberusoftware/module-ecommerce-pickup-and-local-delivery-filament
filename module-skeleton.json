@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-pickup-and-local-delivery-filament",
+  "capabilityKey": "planned:ecommerce:pickup-and-local-delivery",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-pickup-and-local-delivery-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/pickup-and-local-delivery.md",
+  "presentationPlan": "projects/ecommerce/filament/pickup-and-local-delivery.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}

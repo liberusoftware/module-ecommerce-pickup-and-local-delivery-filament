@@ -1,0 +1,23 @@
+{
+  "name": "liberusoftware/ecommerce-pickup-and-local-delivery-filament",
+  "description": "Pickup and Local Delivery Filament presentation module skeleton",
+  "type": "liberu-module",
+  "license": "MIT",
+  "require": {
+    "php": "^8.5",
+    "filament/filament": "^5.11"
+  },
+  "autoload": {
+    "psr-4": {
+      "Liberu\\Presentation\\Capabilityfc531ff7b15e\\": "src/"
+    }
+  },
+  "scripts": {
+    "check": "@php -l src/CapabilityPlugin.php"
+  },
+  "extra": {
+    "liberu": {
+      "name": "ecommerce-pickup-and-local-delivery-filament"
+    }
+  }
+}
